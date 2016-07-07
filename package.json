@@ -1,10 +1,10 @@
 {
   "name": "slimerjs-git",
-  "version": "0.1.0",
+  "version": "0.1.0-v0.10",
   "description": "SlimerJS meta package",
   "main": "main.js",
   "scripts": {
-    "install": "git clone https://github.com/laurentj/slimerjs.git",
+    "install": "git clone https://github.com/laurentj/slimerjs.git && cd slimerjs && git checkout v0.10",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/lostman-github/npm-slimerjs-git",
