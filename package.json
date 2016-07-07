@@ -1,0 +1,13 @@
+{
+  "name": "slimerjs-git",
+  "version": "0.1.0",
+  "description": "SlimerJS meta package",
+  "main": "main.js",
+  "scripts": {
+    "install": "git clone https://github.com/laurentj/slimerjs.git",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/lostman-github/npm-slimerjs-git",
+  "author": "lostman-github",
+  "license": "MPL-2.0"
+}
